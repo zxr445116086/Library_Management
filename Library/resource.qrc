@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/rs">
+        <file>rs/Database2.mdb</file>
+    </qresource>
+</RCC>
